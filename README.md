@@ -1,8 +1,13 @@
-# vuex-imp
+# vuex
+## 一个简单版本的vuex实现
+![vuex](https://raw.githubusercontent.com/vuejs/vuex/dev/docs/.vuepress/public/vuex.png)
+
+## 参考
+<https://github.com/vuejs/vuex>
 
 ## Project setup
 ```
-npm install
+cnpm install
 ```
 
 ### Compiles and hot-reloads for development
