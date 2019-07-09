@@ -2,6 +2,8 @@
     <div id="app">
         {{ this.$store.state.count}}
         {{ this.$store.getters.newCount}}
+        {{ this.$store.state.a.b.count}}
+        <!-- {{ this.$store.state.a.c.count}}  -->
         <button @click="change">add</button>
     </div>
 </template>

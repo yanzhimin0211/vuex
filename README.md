@@ -1,4 +1,3 @@
-# vuex
 ## 一个简单版本的vuex实现
 ![vuex](https://raw.githubusercontent.com/vuejs/vuex/dev/docs/.vuepress/public/vuex.png)
 
